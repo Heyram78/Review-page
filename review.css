@@ -1,0 +1,22 @@
+main{
+    width: 100%;
+    height: 100%;
+}
+section{
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    background-color: rgb(158, 245, 216);
+
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+}
+#author{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#job{
+    color: blueviolet;
+}
